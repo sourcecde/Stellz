@@ -1,0 +1,13 @@
+[08-Sep-2017 09:52:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:53:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:53:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:53:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:54:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:54:14 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:54:26 UTC] PHP Warning:  sprintf(): Too few arguments in /home/stellzuscosmetic/public_html/site/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[08-Sep-2017 09:58:03 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/stellzuscosmetic/public_html/site/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 430
+[08-Sep-2017 10:10:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/stellzuscosmetic/public_html/site/wp-content/plugins/veda-demo-importer/importer/import.php on line 39
+[12-Sep-2017 04:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/stellzuscosmetic/public_html/wp-content/themes/veda/framework/theme-metaboxes/page-metabox.php on line 291
+[12-Sep-2017 04:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/stellzuscosmetic/public_html/wp-content/themes/veda/framework/theme-metaboxes/page-metabox.php on line 325
+[12-Sep-2017 04:30:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/stellzuscosmetic/public_html/wp-content/themes/veda/framework/theme-metaboxes/page-metabox.php on line 291
+[12-Sep-2017 04:30:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/stellzuscosmetic/public_html/wp-content/themes/veda/framework/theme-metaboxes/page-metabox.php on line 325
