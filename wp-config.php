@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'stellzus_wp698');
+define('DB_NAME', 'stelluzcosmetics');
 
 /** MySQL database username */
-define('DB_USER', 'stellzus_wp698');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'g-p0(IS225');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
